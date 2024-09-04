@@ -7,4 +7,4 @@ Console.WriteLine("Bugün istanbulda yağmur var");
 // yorum satırı denir ve yorum satırında olan kodlar, asla derleyici tarafından derlenmez ve çalıştırılmaz.
 
 
-Console.writeLine("bugün hava karlı");
+Console.WriteLine("bugün hava karlı");
