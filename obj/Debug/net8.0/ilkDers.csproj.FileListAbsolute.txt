@@ -1,0 +1,14 @@
+/Users/emrahelis/Desktop/ilkDers/bin/Debug/net8.0/ilkDers
+/Users/emrahelis/Desktop/ilkDers/bin/Debug/net8.0/ilkDers.deps.json
+/Users/emrahelis/Desktop/ilkDers/bin/Debug/net8.0/ilkDers.runtimeconfig.json
+/Users/emrahelis/Desktop/ilkDers/bin/Debug/net8.0/ilkDers.dll
+/Users/emrahelis/Desktop/ilkDers/bin/Debug/net8.0/ilkDers.pdb
+/Users/emrahelis/Desktop/ilkDers/obj/Debug/net8.0/ilkDers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emrahelis/Desktop/ilkDers/obj/Debug/net8.0/ilkDers.AssemblyInfoInputs.cache
+/Users/emrahelis/Desktop/ilkDers/obj/Debug/net8.0/ilkDers.AssemblyInfo.cs
+/Users/emrahelis/Desktop/ilkDers/obj/Debug/net8.0/ilkDers.csproj.CoreCompileInputs.cache
+/Users/emrahelis/Desktop/ilkDers/obj/Debug/net8.0/ilkDers.dll
+/Users/emrahelis/Desktop/ilkDers/obj/Debug/net8.0/refint/ilkDers.dll
+/Users/emrahelis/Desktop/ilkDers/obj/Debug/net8.0/ilkDers.pdb
+/Users/emrahelis/Desktop/ilkDers/obj/Debug/net8.0/ilkDers.genruntimeconfig.cache
+/Users/emrahelis/Desktop/ilkDers/obj/Debug/net8.0/ref/ilkDers.dll
